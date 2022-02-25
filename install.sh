@@ -1,1 +1,1 @@
-cp .zshrc ~/.zshrc
+echo "ZSH_THEME='robbyrussell'" >> .zshrc
