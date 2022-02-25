@@ -1,1 +1,1 @@
-echo "ZSH_THEME='robbyrussell'" >> .zshrc
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
